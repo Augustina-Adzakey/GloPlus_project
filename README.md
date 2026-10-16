@@ -55,12 +55,12 @@ Delay reasons: Carrier operational delays accounted for 1,797 late deliveries in
 
 ## Insights & Recommendations
 <img width="800" height="500" alt="Screenshot 2026-04-20 145347" src="Images\Insights&recommendations.png" />
+
 ## Dashboard
 
 The Power BI dashboard enables stakeholders to explore delivery performance by year, customer segment, delay reason, region, branch, and carrier.
 
 Dashboard preview <img width="800" height="500" alt="Screenshot 2026-04-20 145347" src="Images\Dashboard.png" />
-
 
 
 ## Project Deliverables
